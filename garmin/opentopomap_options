@@ -21,7 +21,7 @@ remove-ovm-work-files
 preserve-element-order
 split-name-index
 housenumbers
-drive-on=detect,right
+drive-on=left
 #The following files are defined in the main script
 # bounds=bounds-latest.zip
 # precomp-sea=sea-latest.zip
