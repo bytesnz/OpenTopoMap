@@ -36,10 +36,12 @@ route
 make-opposite-cycleways
 add-pois-to-areas
 add-pois-to-lines
-check-roundabouts
-check-roundabout-flares
+report-roundabout-issues
 link-pois-to-ways
 process-destination
 process-exits
 order-by-decreasing-area
 keep-going
+location-autofill=bounds,is_in,nearest
+pois-to-areas-placement=entrance=main;entrance=yes;building=entrance
+remove-short-arcs
